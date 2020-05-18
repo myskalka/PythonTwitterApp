@@ -1,0 +1,4 @@
+app_key=YOUR CONSUMER KEY  
+app_secret=YOUR CONSUMER SECRET  
+oauth_token=YOUR ACCESS TOKEN  
+oauth_token_secret=YOUR ACCESS TOKEN SECRET
